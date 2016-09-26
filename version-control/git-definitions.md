@@ -10,3 +10,5 @@ A branch is a copy of a project that allows you to add one thing at a time befor
 A commit is a record of changes to a repository and a good commit message tells you what the change was in a clear and concise way.
 * What is a merge conflict?
 They usually occur when two people changed the same lines in the same file or someone decided to delete the file you are submitting a change for. Basically, git cannot tell which version of the project is the one it should use.
+
+**THIS IS THE EDIT**
