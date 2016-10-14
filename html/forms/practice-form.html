@@ -1,0 +1,39 @@
+<!Doctype html>
+
+<html>
+<head>
+	<title>Practice Form</title>
+</head>
+<body>
+
+<form name="How are you feeling today?" action="success.html" method="post">
+  <fieldset>
+    <div>
+      <label>Full name:</label>
+      <input type="text" name="fullname">
+    </div>
+
+    <div>
+      <label>Email:</label>
+      <input type="email" name="email">
+    </div>
+
+    <div>
+      <label>How are your Feeling today? </label>
+      <select name="Feelings">
+        <option value="mood">Happy</option>
+        <option value="mood">Sad</option>
+        <option value="mood">Indifferent</option>
+      </select>
+    </div>
+  
+    <div>
+      <label>Tell us what made you feel that way below.</label>
+      <br>
+      <textarea rows="5" cols= "50" required></textarea>
+    </div>
+    
+  <button type="submit">Save this form!</button>
+</form>
+</body>
+</html>
