@@ -1,0 +1,18 @@
+.hat {
+	position: absolute;
+	left: 400px;
+	top: 20px;
+}
+
+.glasses {
+	position: absolute;
+	left: 440px;
+	top: 230px;
+}
+
+.octopus {
+	position: absolute;
+	left: 400px;
+	top: 130px;
+	z-index: -1
+}
