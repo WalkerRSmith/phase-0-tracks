@@ -1,0 +1,12 @@
+A. Algorithm for Elevator
+	1. Ask what floor the algorithm is trying to take us to
+	2. Advance towards the buttons for the elevator
+	3. Search the available buttons for the number provided by the user
+	4. Press the button that has the value provided
+	5. Step away from the panel
+
+B. Algorithm for feeding my cats
+	1. Search pantry for cat food, beggining on top shelf and proceeding from the right until the left end of the shelf is reached. Once it is, proceed down on level. Then, move from left to right until the end of the shelf is reached.
+	2. Bring down cat food.
+	3. Open food package, advance towards cat bowl.
+	4. Pour food into bowl.
